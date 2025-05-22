@@ -33,6 +33,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 NAME:Pavithra.S
 register number: 212223220073
 '''
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
