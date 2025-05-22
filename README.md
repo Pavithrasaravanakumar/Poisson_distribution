@@ -32,7 +32,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 ```
 NAME:Pavithra.S
 register number: 212223220073
-'''
+```
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
@@ -56,8 +56,6 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
-
-
 ```
 
  
